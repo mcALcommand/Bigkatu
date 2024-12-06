@@ -4,7 +4,7 @@
 #ダウンロード方法
 右にあるReleaseからダウンロードできます
 
-#導入方法
+#導入方法  
 .minecraft/saves/"ワールド名"/datapacks に"bigkatu-datapack"を入れる
 
 .minecraft/resourcepacks (リソースパックフォルダ) に"bigkatu-Resourcepacks"を入れて適用する
